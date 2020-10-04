@@ -26,14 +26,16 @@ sudo service nscd restart
 getent passwd
 ```
 
-# 追加
+## 追加
 ```sh
-# user.ldif
 dn: ou=People,cd=nodomain
 objectClass: organizationalUnit
 ou: People
 structuralObjectClass: organizationalUnit
+```
 
+### ユーザーの追加
+```sh
 dn: cn=testuser,ou=People,dc=nodomain
 cn: testuser
 gidnumber: 1000
@@ -44,7 +46,7 @@ objectclass: posixAccount
 objectclass: top
 uid: testuser
 uidnumber: 1001
-userpassword: {CRYPT}$6$1/RXprBtH/uxtsDW$VZAB0gZQ8/yMZqXiVddfyLuO6GrM.LmeAQJc9R0G3ZDfHOilkI5rwwpv3QtYGeCmK8kXwyhyCNxbUdkq69J6Y0
+userpassword: {CRYPT}$.$...
 ```
 
 ```sh
