@@ -2,8 +2,10 @@
 sudo apt update
 sudo apt upgrade
 sudo apt install -y openssh-server
-sudo apt install -y slapd ldap-utils sssd sssd-ldap ldap-auth-client nscd
-sudo apt purge slapd ldap-utils
+# sudo apt install -y slapd ldap-utils sssd sssd-ldap ldap-auth-client nscd
+sudo apt install -y slapd ldap-utils ldap-auth-config
+# sudo apt purge slapd ldap-utils
+sudo apt install -y ldap-utils ldap-auth-config
 ```
 
 ```sh
@@ -11,7 +13,7 @@ sudo dpkg-reconfigure ldap-auth-config
 # IP
 # ldap://<IP or hostname>/
 
-# admin nodomain
+# cn=admin,dc=nodomain
 ```
 
 ### NSS の設定
@@ -78,4 +80,18 @@ $servers->setValue('login','bind_id','cn=admin,dc=nodomain');
 ```sh
 sudo service apache2 start #起動
 sudo service apache2 stop #停止
+```
+
+## クライアント設定
+```sh
+sudo apt update && sudo apt upgrade -y
+sudo apt install -y ldap-utils ldap-auth-config libnss-ldapd
+nano /etc/nsswitch.conf
+# ldap を追加
+
+sudo apt install -y nfs-common
+sudo mkdir /home/nfs
+sudo nano /etc/fstab
+# マウントの設定
+# <IP>:/nfs /home/nfs nfs defaults 0 0
 ```
