@@ -55,4 +55,22 @@ objectclass: posixAccount\n\
 objectclass: top\n\
 uid: ${username}\n\
 uidnumber: ${un}\n\
-userpassword: ${ssha}"
+userpassword: ${ssha}" > /tmp/tmp.ldif
+
+err68=false
+errmsg="\\n"
+while true; do
+    ldappass=""
+    while [[ $ldappass == "" ]]; do
+        ldappass=$(whiptail --passwordbox ${errmsg}ldap\ の管理者パスワードを入力してください 9 0 3>&1 1>&2 2>&3)
+        [[ $? -ne 0 ]] && cancel=0 && break
+    done
+    [[ $cancel == 0 ]] && echo キャンセルしました && exit
+    ldapadd -x -D "cn=admin,dc=nodomain" -w $ldappass -f /tmp/tmp.ldif >/dev/null 2>&1
+    r=$?
+    [[ $r == 0 ]] && break
+    [[ $r == 68 ]] && err68=true && break
+    errmsg="パスワードが異なります\\n"
+done
+
+$err68 && whiptail --msgbox エラー:\ 重複しています。 0 0
