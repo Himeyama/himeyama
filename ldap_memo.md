@@ -19,8 +19,6 @@ sudo dpkg-reconfigure ldap-auth-config
 ### NSS の設定
 ```sh
 sudo nano /etc/nsswhich.conf
-# ldap を追加
-sudo service nscd restart
 ```
 
 ### LDAP ユーザーの確認
