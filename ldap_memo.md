@@ -1,11 +1,12 @@
+# server 側
 ```sh
 sudo apt update
 sudo apt upgrade
-sudo apt install -y openssh-server
+sudo apt install -y openssh-server slapd ldap-utils ldap-auth-config
 # sudo apt install -y slapd ldap-utils sssd sssd-ldap ldap-auth-client nscd
-sudo apt install -y slapd ldap-utils ldap-auth-config
+# sudo apt install -y slapd ldap-utils ldap-auth-config
 # sudo apt purge slapd ldap-utils
-sudo apt install -y ldap-utils ldap-auth-config
+# sudo apt install -y ldap-utils ldap-auth-config
 ```
 
 ```sh
