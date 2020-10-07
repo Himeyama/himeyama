@@ -2,7 +2,8 @@
 ```sh
 sudo apt update
 sudo apt upgrade
-sudo apt install -y whiptail nano openssh-server slapd ldap-utils ldap-auth-config
+sudo apt install -y whiptail nano openssh-server slapd ldap-utils ldap-auth-config phpldapadmin
+sudo service slapd start
 # sudo apt install -y slapd ldap-utils sssd sssd-ldap ldap-auth-client nscd
 # sudo apt install -y slapd ldap-utils ldap-auth-config
 # sudo apt purge slapd ldap-utils
