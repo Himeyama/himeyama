@@ -37,7 +37,7 @@ userPassword: {SSHA}+Kr1Gzgovvuugw66l7Majz/xbzAkS8pT
 
 ```sh
 ldapmodify -Y EXTERNAL -H ldapi:/// -f chdomain.ldif
-ldapadd -x -D cn=admin,dc=nodomain -W -f base.ldif
+ldapadd -x -D cn=admin,dc=bcl,dc=sci,dc=yamaguchi-u,dc=ac,dc=jp -W -f base.ldif
 ```
 
 `/etc/phpldapadmin/config.php`を開き、以下を追加。
