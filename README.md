@@ -1,5 +1,6 @@
 # Hi there 👋
-hogehoge
+足腰が痛い、手荒れがひどい。  
+そうだ、薬を飲もう。
 
 ## Skills
 ### Languages
