@@ -1,27 +1,27 @@
-# Hi there 👋
-足腰が痛い、手荒れがひどい。  
-そうだ、薬を飲もう。
+# Hello, world
+今日はいい天気
 
 ## Skills
 ### Languages
 - Ruby
 - Shell
 - C/C++
-- C# / Unity, .net (a little...)
+- C# / Unity, .net
 - JavaScript / HTML / CSS
 - PowerShell
 - Python
-- Rust (a little...)
+- Rust
 
 ### Library / Frameworks
 - Rails
 - OpenCV
+- Numo/NArray
 - .net
 
 🌱 I’m currently learning ... Unity!
 
 ## Location
-- Yamaguchi
+- Empire of Nippon, Shimabara Domain
 
 <!--
 **Himeyama/himeyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
