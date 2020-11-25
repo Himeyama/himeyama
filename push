@@ -1,0 +1,12 @@
+#!/bin/bash
+
+git add *
+[[ `git ls-files --deleted` != "" ]] && git rm `git ls-files --deleted`
+read -p "Message> " commit_msg
+#commit_msg=$(whiptail --inputbox コミットメッセージを入力してください。 0 0 3>&1 1>&2 2>&3)
+git status
+if [[ $commit_msg == "" ]]; then
+    git commit --allow-empty-message -m "" && git push
+else
+    git commit -m "${commit_msg}" && git push
+fi
