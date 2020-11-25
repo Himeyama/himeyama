@@ -1,5 +1,5 @@
-# All: TestLib LTest clean
-All: TestDll DTest clean
+All: TestLib LTest clean
+# All: TestDll DTest clean
 
 TestDll: TestDll.c
 	gcc -c TestDll.c
