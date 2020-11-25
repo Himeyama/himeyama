@@ -9,4 +9,4 @@ Test: Test.c
 	gcc Test.o TestDll.dll -o Test
 
 clean:
-	rm Test.o TestDll.o
+	rm Test.o TestDll.o -f
