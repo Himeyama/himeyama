@@ -1,4 +1,4 @@
-All: TestDll Test
+All: TestDll Test clean
 
 TestDll: TestDll.c
 	gcc -c TestDll.c
@@ -7,7 +7,6 @@ TestDll: TestDll.c
 Test: Test.c
 	gcc -c Test.c
 	gcc Test.o TestDll.dll -o Test
-	rm Test.o TestDll.o
 
 clean:
-	rm Test.o TestDll.o TestDll.dll Test.exe
+	rm Test.o TestDll.o
