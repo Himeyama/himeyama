@@ -3,33 +3,15 @@ require "numo/narray"
 include Numo
 
 class GNUPlot
-    def initialize(
-    plt = [], 
-    title = nil,
-    file_name = nil, 
-    font_family = "Alial", 
-    font_size = 18, 
-    key_font_size = 16, 
-    text_color = "212121",
-    colors = ["2196F3", "FF9800", "009688", "f44336"],
-    light_gray = "E0E0E0",
-    ratio = 3r/4,
-    grid = true,
-    xlabel = nil,
-    ylabel = nil)
-        @plt = plt
-        @title = title
-        @file_name = file_name
-        @font_family = font_family
-        @font_size = font_size
-        @key_font_size = key_font_size
-        @text_color = text_color
-        @colors = colors
-        @light_gray = light_gray
-        @ratio = ratio
-        @grid = grid
-        @xlabel = xlabel
-        @ylabel = ylabel
+    def initialize
+        @plt = []
+        @font_family = "Alial"
+        @font_size = 18
+        @key_font_size = 16
+        @text_color = "212121"
+        @light_gray = "E0E0E0"
+        @ratio = 3r/4
+        @grid = true
     end
     
     def display
@@ -63,6 +45,9 @@ class GNUPlot
 end
 
 class GNUPlotData
+    @@colors = ["2196F3", "FF9800", "009688", "f44336"]
+    @@n = 0
+    
     def initialize(x, y) 
         @x = x
         @y = y
@@ -83,9 +68,9 @@ class GNUPlotData
             opt["pt"] = @pt
         end
         opt["w"] = "lp" if line && point
+        opt["lc"] = "rgb 0x#{@@colors[@@n]}"
         opt["t"] = @title if @title
-        opt["lc"] = "rgb 0x#{@color}" if @color
-        
+        @@n += 1
         [@x, @y, opt]
     end
     
@@ -94,20 +79,18 @@ class GNUPlotData
         self
     end
     
-    def color(c)
-        @color = c
-        self
-    end
-    
     def pt(pt)
         @pt = pt
         self
     end
     
-    attr_accessor :x, :y, :line, :point, :title
+    def title(t)
+        @title = t
+        self
+    end
+    
+    attr_accessor :x, :y, :line, :point
 end
-
-colors = ["2196F3", "FF9800", "009688", "f44336"]
 
 
 x = Numo::Int32[-10..10] / 10.0
@@ -118,10 +101,10 @@ y4 = x ** 4
 
 plt = GNUPlot.new
 
-d1 = GNUPlotData.new(x, y1).width(3).color(colors[0]).pt(5)
-d2 = GNUPlotData.new(x, y2).width(3).color(colors[1]).pt(7)
-d3 = GNUPlotData.new(x, y3).width(3).color(colors[2]).pt(5)
-d4 = GNUPlotData.new(x, y4).width(3).color(colors[3]).pt(7)
+d1 = GNUPlotData.new(x, y1).width(3).pt(5).title("x")
+d2 = GNUPlotData.new(x, y2).width(3).pt(7).title("x^2")
+d3 = GNUPlotData.new(x, y3).width(3).pt(5).title("x^3")
+d4 = GNUPlotData.new(x, y4).width(3).pt(7).title("x^4")
 
 plt.data = d1, d2, d3, d4
 
