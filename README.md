@@ -1,6 +1,6 @@
-# Hello, world
-今日はいい天気
+# 卒論が忙しい
 
+<!--
 ## Skills
 ### Languages
 - Ruby
@@ -23,7 +23,6 @@
 ## Location
 - Empire of Nippon, Shimabara Domain
 
-<!--
 **Himeyama/himeyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
