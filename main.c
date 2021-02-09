@@ -1,13 +1,23 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <stdbool.h>
 
-float frand(void){
+struct rand{
+};
+
+float frand(struct rand self){
     return (float)drand48();
 }
 
-int main(void){
+
+void Init_rand(struct rand self){
     srand48(time(NULL));
-    printf("%f\n", frand());
+}
+
+int main(void){
+    struct rand r;
+    Init_rand(r);
+    printf("%f\n", frand(r));
     return 0;
 }
