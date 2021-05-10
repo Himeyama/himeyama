@@ -1,4 +1,4 @@
-# ⌒°( ･ω･)°⌒ 
+# (┘ω└) Do y Rubesty └(。`･ ω ･´。)┘
 [![GitHub-Profile-Summary-Cards](https://github.com/Himeyama/himeyama/actions/workflows/profile-summray-cards.yml/badge.svg)](https://github.com/Himeyama/himeyama/actions/workflows/profile-summray-cards.yml)
 
 [ホームページ](https://himeyama.github.io)
