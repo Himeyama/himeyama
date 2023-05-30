@@ -1,7 +1,8 @@
 # こんにちは！
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=Himeyama&hide=css,jupyter+notebook,html,sass,makefile](https://github-readme-stats.vercel.app/api/top-langs/?username=Himeyama&hide=css,jupyter+notebook,html,sass,makefile,scss)
-![https://github-readme-stats.vercel.app/api?username=himeyama](https://github-readme-stats.vercel.app/api?username=himeyama)
+
+![https://github-readme-stats.vercel.app/api/top-langs/?username=Himeyama&hide=css,jupyter+notebook,html,sass,makefile&bg_color=30,F06292,E57373&title_color=fff&text_color=fff](https://github-readme-stats.vercel.app/api/top-langs/?username=Himeyama&hide=css,jupyter+notebook,html,sass,makefile&bg_color=30,F06292,E57373&title_color=fff&text_color=fff)
+![https://github-readme-stats.vercel.app/api?username=himeyama&rank_icon=github&bg_color=30,F06292,E57373&title_color=fff&text_color=fff](https://github-readme-stats.vercel.app/api?username=himeyama&rank_icon=github&bg_color=30,F06292,E57373&title_color=fff&text_color=fff)
 
 ---
 
