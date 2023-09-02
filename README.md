@@ -7,6 +7,9 @@
 
 > 開発中のソフトウェア
 
+## [PotableInstaller](https://github.com/Himeyama/Installer)
+![PotableInstaller](https://github.com/Himeyama/Installer/raw/main/docs/image.png)
+
 ## [SVG2ICO](https://github.com/Himeyama/Svgicon5)
 
 ![SVG2ICO](https://github.com/Himeyama/Svgicon5/raw/master/image.png)
