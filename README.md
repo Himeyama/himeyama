@@ -15,7 +15,7 @@
 
 ---
 
-> 開発中のソフトウェア
+> 自家製ソフトウェア (Self-made software)
 
 |Software|Screenshots|Downloads|
 |:--:|:--:|:--:|
