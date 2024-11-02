@@ -19,6 +19,7 @@
 
 |Software|Screenshots|Downloads|
 |:--:|:--:|:--:|
+|API to retrieve stock prices<br>[swan](https://github.com/himeyama/swan)|<image width="600" src="https://github.com/user-attachments/assets/4d209dc8-628f-4c64-be56-9a11a848995d" />|[Downloads](https://github.com/Himeyama/swan/releases)|
 |Password manager<br>[Nanohana](https://github.com/Himeyama/nanohana)|<image width="600" src="https://github.com/Himeyama/nanohana/blob/master/docs/Dark.jpg" />|[Downloads](https://github.com/Himeyama/nanohana/releases)|
 |To convert SVG to ICO<br>[SVG2ICO](https://github.com/Himeyama/Svgicon5)|<image width="600" src="https://github.com/Himeyama/Svgicon5/assets/39254183/c11780e5-4239-4922-9765-f044516289b0" />|[Downloads](https://github.com/Himeyama/Svgicon5/releases)|
 |Lightweight information sharing software made with Ruby<br>[sora](https://github.com/Himeyama/sora)|<image width="600" src="https://github.com/Himeyama/sora/raw/master/docs/screenshot.png" />|`gem install sora`|
