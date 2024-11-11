@@ -15,7 +15,7 @@
 
 ---
 
-> 自家製ソフトウェア (Self-made software)
+> 自家製ソフトウェア (The software developed by hikari)
 
 |Software|Screenshots|Downloads|
 |:--:|:--:|:--:|
