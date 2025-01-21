@@ -27,4 +27,5 @@
 |Lightweight information sharing software made with Ruby<br>[sora](https://github.com/Himeyama/sora)|<image width="600" src="https://github.com/Himeyama/sora/raw/master/docs/screenshot.png" />|`gem install sora`|
 |Remotely shut down a PC<br>[Remote Shutdown](https://github.com/Himeyama/remote-shutdown)|<image width="600" src="https://github.com/user-attachments/assets/3dd64721-6f98-49b6-9a36-1329a134a349" />|[Downloads](https://github.com/Himeyama/remote-shutdown/releases)|
 |Create a QR code from a file<br>[F2Q](https://github.com/Himeyama/F2Q)|<image width="600" src="https://user-images.githubusercontent.com/39254183/235792566-d5ac81df-e050-48db-97e5-e4d697680c19.png" />|[Downloads](https://github.com/Himeyama/F2Q/releases/)|
+|Create audio files (*.wav) by calling the VOICEVOX API.<br>[clidamon](https://github.com/himeyama/clidamon)|No image|[Downloads](https://github.com/Himeyama/clidamon/releases)|
 |Windows App SDK template<br>[WinUIExample](https://github.com/Himeyama/WinUIExample)|<image width="600" src="https://github.com/Himeyama/WinUIExample/raw/master/docs/screenshot01.png" />|https://github.com/Himeyama/WinUIExample/releases|
