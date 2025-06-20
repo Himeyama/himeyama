@@ -19,9 +19,9 @@
 
 |Software|Screenshots|Downloads|
 |:--:|:--:|:--:|
-|EC2 Instance Management App for Windows Desktop<br>[Shinano](https://github.com/Himeyama/shinano)|<img src="https://github.com/Himeyama/shinano/raw/master/docs/image01.png" width="300" />|[Downloads](https://github.com/Himeyama/shinano/releases)|
-|Management App<br>[Scheduler](https://github.com/Himeyama/Scheduler)|<img src="https://github.com/Himeyama/Scheduler/raw/master/docs/image.png" width="300" />|[Downloads](https://github.com/Himeyama/Scheduler/releases)|
-|"Lime" is an app for managing bookmarks.<br>[Lime](https://github.com/Himeyama/lime)|<img src="https://github.com/user-attachments/assets/5f4b6667-bd96-4545-a8ec-0b253fe55d03" width="300" />|[Downloads](https://github.com/Himeyama/lime/releases)|
+|EC2 Instance Management App for Windows Desktop<br>[Shinano](https://github.com/Himeyama/shinano)|<img src="https://github.com/Himeyama/shinano/raw/master/docs/image01.png" width="600" />|[Downloads](https://github.com/Himeyama/shinano/releases)|
+|Management App<br>[Scheduler](https://github.com/Himeyama/Scheduler)|<img src="https://github.com/Himeyama/Scheduler/raw/master/docs/image.png" width="600" />|[Downloads](https://github.com/Himeyama/Scheduler/releases)|
+|"Lime" is an app for managing bookmarks.<br>[Lime](https://github.com/Himeyama/lime)|<img src="https://github.com/user-attachments/assets/5f4b6667-bd96-4545-a8ec-0b253fe55d03" width="600" />|[Downloads](https://github.com/Himeyama/lime/releases)|
 |Yukari is a desktop application for a generative AI client.<br>[Yukari](https://github.com/Himeyama/yukari)|<image width="600" src="https://github.com/Himeyama/yukari/raw/master/docs/Demo.gif" />|[Downloads](https://github.com/Himeyama/yukari/releases)|
 |Password manager<br>[Nanohana](https://github.com/Himeyama/nanohana)|<image width="600" src="https://github.com/Himeyama/nanohana/blob/master/docs/Dark.jpg" />|[Downloads](https://github.com/Himeyama/nanohana/releases)|
 |To convert SVG to ICO<br>[SVG2ICO](https://github.com/Himeyama/Svgicon5)|<image width="600" src="https://github.com/Himeyama/Svgicon5/assets/39254183/c11780e5-4239-4922-9765-f044516289b0" />|[Downloads](https://github.com/Himeyama/Svgicon5/releases)|
