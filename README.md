@@ -20,10 +20,10 @@
 |Software|Screenshots|Downloads|
 |:--:|:--:|:--:|
 |To convert SVG to ICO<br>[SVG2ICO](https://github.com/Himeyama/Svgicon5)|<image width="600" src="https://github.com/Himeyama/Svgicon5/raw/master/docs/image01.png" />|[Downloads](https://github.com/Himeyama/Svgicon5/releases)|
+|Yukari is a desktop application for a generative AI client.<br>[Yukari](https://github.com/Himeyama/yukari)|<image width="600" src="https://github.com/Himeyama/yukari/raw/master/docs/yukari1.gif" /><br><image width="600" src="https://github.com/Himeyama/yukari/raw/master/docs/yukari2.gif" />|[Downloads](https://github.com/Himeyama/yukari/releases)|
 |EC2 Instance Management App for Windows Desktop<br>[Shinano](https://github.com/Himeyama/shinano)|<img src="https://github.com/Himeyama/shinano/raw/master/docs/image01.png" width="600" />|[Downloads](https://github.com/Himeyama/shinano/releases)|
 |Management App<br>[Scheduler](https://github.com/Himeyama/Scheduler)|<img src="https://github.com/Himeyama/Scheduler/raw/master/docs/image.png" width="600" />|[Downloads](https://github.com/Himeyama/Scheduler/releases)|
 |"Lime" is an app for managing bookmarks.<br>[Lime](https://github.com/Himeyama/lime)|<img src="https://github.com/user-attachments/assets/5f4b6667-bd96-4545-a8ec-0b253fe55d03" width="600" />|[Downloads](https://github.com/Himeyama/lime/releases)|
-|Yukari is a desktop application for a generative AI client.<br>[Yukari](https://github.com/Himeyama/yukari)|<image width="600" src="https://github.com/Himeyama/yukari/raw/master/docs/Demo.gif" />|[Downloads](https://github.com/Himeyama/yukari/releases)|
 |Password manager<br>[Nanohana](https://github.com/Himeyama/nanohana)|<image width="600" src="https://github.com/Himeyama/nanohana/blob/master/docs/Dark.jpg" />|[Downloads](https://github.com/Himeyama/nanohana/releases)|
 |Lightweight information sharing software made with Ruby<br>[sora](https://github.com/Himeyama/sora)|<image width="600" src="https://github.com/user-attachments/assets/23895c3e-abb7-480a-b3be-e02d9cedd61b" />|`gem install sora`|
 |Remotely shut down a PC<br>[Remote Shutdown](https://github.com/Himeyama/remote-shutdown)|<image width="600" src="https://github.com/user-attachments/assets/3dd64721-6f98-49b6-9a36-1329a134a349" />|[Downloads](https://github.com/Himeyama/remote-shutdown/releases)|
