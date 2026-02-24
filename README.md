@@ -1,32 +1,108 @@
-# おはみかん（っ'-')╮ =͟͟͞͞🍊=͟͟͞͞🍑=͟͟͞͞🍎=͟͟͞͞🍐=͟͟͞͞🍓=͟͟͞͞🍌=͟͟͞͞🍋=͟͟͞͞🍇
+<div align="center">
 
-| <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Himeyama&hide=css,jupyter+notebook,html,sass,makefile&bg_color=30,F06292,E57373&title_color=fff&text_color=fff"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himeyama&hide=css,jupyter+notebook,html,sass,makefile&bg_color=30,F06292,E57373&title_color=fff&text_color=fff" alt="Anurag's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=himeyama&count_private=true&theme=bear&how_icons=true&include_all_commits=true&bg_color=30,F06292,E57373&title_color=fff&text_color=fff"><img align="center" src="https://github-readme-stats.vercel.app/api?username=himeyama&count_private=true&theme=bear&how_icons=true&include_all_commits=true&bg_color=30,F06292,E57373&title_color=fff&text_color=fff" /></a> |
-| ------------- | ------------- |
+# おはみかん  (っ'-')╮ =͟͟͞͞🍊 =͟͟͞͞🍑 =͟͟͞͞🍎 =͟͟͞͞🍐 =͟͟͞͞🍓 =͟͟͞͞🍌 =͟͟͞͞🍋 =͟͟͞͞🍇
 
-- [C#](https://github.com/search?q=owner%3AHimeyama%20language%3AC%23%20&type=code)
-- [JavaScript](https://github.com/search?q=owner%3AHimeyama+language%3AJavaScript+&type=code)
-- [Ruby](https://github.com/search?q=owner%3AHimeyama+language%3ARuby+&type=code)
-- [Python](https://github.com/search?q=owner%3AHimeyama+language%3APython&type=code)
-- [C](https://github.com/search?q=owner%3AHimeyama+language%3AC+&type=code)
-- [C++](https://github.com/search?q=owner%3AHimeyama+language%3AC%2B%2B+&type=code)
-- [TypeScript](https://github.com/search?q=owner%3AHimeyama+language%3ATypeScript+&type=code)
-- [PowerShell](https://github.com/search?q=owner%3AHimeyama%20language%3APowerShell&type=code)
+[![GitHub followers](https://img.shields.io/github/followers/Himeyama?style=for-the-badge&color=F06292&labelColor=E57373&logo=github&logoColor=white)](https://github.com/Himeyama)
+[![GitHub stars](https://img.shields.io/github/stars/Himeyama?style=for-the-badge&color=FFB74D&labelColor=FF8A65&logo=github&logoColor=white)](https://github.com/Himeyama)
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
+
+```yaml
+name:      HIKARI
+location:  KAWASAKI, Kanagawa, Japan 🇯🇵
+work:      Optical System, Optical Solution, Network System Development, Infra, AWS
+```
+
+
+<div align="center">
+
+## 🍦 ソフト
+
+</div>
+
+
+### 🤖 [HikariChat](https://github.com/Himeyama/HikariChat) — LLM チャットアプリ (Windows)
+
+<img src="https://github.com/user-attachments/assets/71463bc7-0997-42fa-b8cc-3f950a083186" width="600" />
+
+### 🖼️ [SVG2ICO](https://github.com/Himeyama/Svgicon5) — SVGファイルをICOに変換
+
+<img src="https://github.com/Himeyama/Svgicon5/raw/master/docs/image01.png" width="600" />
+
+[⬇️ Download](https://github.com/Himeyama/Svgicon5/releases)
+
+### ✨ [Yukari](https://github.com/Himeyama/yukari) — 生成AIのデスクトップクライアント
+
+<img src="https://github.com/Himeyama/yukari/raw/master/docs/yukari1.gif" width="600" />
+<img src="https://github.com/Himeyama/yukari/raw/master/docs/yukari2.gif" width="600" />
+
+[⬇️ Download](https://github.com/Himeyama/yukari/releases)
+
+### ☁️ [Shinano](https://github.com/Himeyama/shinano) — Windows向けEC2インスタンス管理アプリ
+
+<img src="https://github.com/Himeyama/shinano/raw/master/docs/image01.png" width="600" />
+
+[⬇️ Download](https://github.com/Himeyama/shinano/releases)
+
+### 📅 [Scheduler](https://github.com/Himeyama/Scheduler) — タスク・スケジュール管理アプリ
+
+<img src="https://github.com/Himeyama/Scheduler/raw/master/docs/image.png" width="600" />
+
+[⬇️ Download](https://github.com/Himeyama/Scheduler/releases)
 
 ---
 
-> 自家製ソフトウェア (The software developed by hikari)
+### 🔖 [Lime](https://github.com/Himeyama/lime) — ブックマーク管理アプリ
 
-|Software|Screenshots|Downloads|
-|:--:|:--:|:--:|
-|To convert SVG to ICO<br>[SVG2ICO](https://github.com/Himeyama/Svgicon5)|<image width="600" src="https://github.com/Himeyama/Svgicon5/raw/master/docs/image01.png" />|[Downloads](https://github.com/Himeyama/Svgicon5/releases)|
-|Yukari is a desktop application for a generative AI client.<br>[Yukari](https://github.com/Himeyama/yukari)|<image width="600" src="https://github.com/Himeyama/yukari/raw/master/docs/yukari1.gif" /><br><image width="600" src="https://github.com/Himeyama/yukari/raw/master/docs/yukari2.gif" />|[Downloads](https://github.com/Himeyama/yukari/releases)|
-|EC2 Instance Management App for Windows Desktop<br>[Shinano](https://github.com/Himeyama/shinano)|<img src="https://github.com/Himeyama/shinano/raw/master/docs/image01.png" width="600" />|[Downloads](https://github.com/Himeyama/shinano/releases)|
-|Management App<br>[Scheduler](https://github.com/Himeyama/Scheduler)|<img src="https://github.com/Himeyama/Scheduler/raw/master/docs/image.png" width="600" />|[Downloads](https://github.com/Himeyama/Scheduler/releases)|
-|"Lime" is an app for managing bookmarks.<br>[Lime](https://github.com/Himeyama/lime)|<img src="https://github.com/user-attachments/assets/5f4b6667-bd96-4545-a8ec-0b253fe55d03" width="600" />|[Downloads](https://github.com/Himeyama/lime/releases)|
-|Password manager<br>[Nanohana](https://github.com/Himeyama/nanohana)|<image width="600" src="https://github.com/Himeyama/nanohana/blob/master/docs/Dark.jpg" />|[Downloads](https://github.com/Himeyama/nanohana/releases)|
-|Lightweight information sharing software made with Ruby<br>[sora](https://github.com/Himeyama/sora)|<image width="600" src="https://github.com/user-attachments/assets/23895c3e-abb7-480a-b3be-e02d9cedd61b" />|`gem install sora`|
-|Remotely shut down a PC<br>[Remote Shutdown](https://github.com/Himeyama/remote-shutdown)|<image width="600" src="https://github.com/user-attachments/assets/3dd64721-6f98-49b6-9a36-1329a134a349" />|[Downloads](https://github.com/Himeyama/remote-shutdown/releases)|
-|Create a QR code from a file<br>[F2Q](https://github.com/Himeyama/F2Q)|<image width="600" src="https://user-images.githubusercontent.com/39254183/235792566-d5ac81df-e050-48db-97e5-e4d697680c19.png" />|[Downloads](https://github.com/Himeyama/F2Q/releases/)|
-|Create audio files (*.wav) by calling the VOICEVOX API.<br>[clidamon](https://github.com/himeyama/clidamon)|No image|[Downloads](https://github.com/Himeyama/clidamon/releases)|
-|Windows App SDK template<br>[WinUIExample](https://github.com/Himeyama/WinUIExample)|<image width="600" src="https://github.com/Himeyama/WinUIExample/raw/master/docs/screenshot01.png" />|https://github.com/Himeyama/WinUIExample/releases|
+<img src="https://github.com/user-attachments/assets/5f4b6667-bd96-4545-a8ec-0b253fe55d03" width="600" />
+
+[⬇️ Download](https://github.com/Himeyama/lime/releases)
+
+### 🔐 [Nanohana](https://github.com/Himeyama/nanohana) — パスワードマネージャー
+
+<img src="https://github.com/Himeyama/nanohana/raw/master/docs/Dark.jpg" width="600" />
+
+[⬇️ Download](https://github.com/Himeyama/nanohana/releases)
+
+### 🌤️ [sora](https://github.com/Himeyama/sora) — Ruby製 軽量情報共有ソフト
+
+<img src="https://github.com/user-attachments/assets/23895c3e-abb7-480a-b3be-e02d9cedd61b" width="600" />
+
+```
+gem install sora
+```
+
+---
+
+### 💤 [Remote Shutdown](https://github.com/Himeyama/remote-shutdown) — PCをリモートシャットダウン
+
+<img src="https://github.com/user-attachments/assets/3dd64721-6f98-49b6-9a36-1329a134a349" width="600" />
+
+[⬇️ Download](https://github.com/Himeyama/remote-shutdown/releases)
+
+### 📷 [F2Q](https://github.com/Himeyama/F2Q) — ファイルからQRコードを生成
+
+<img src="https://user-images.githubusercontent.com/39254183/235792566-d5ac81df-e050-48db-97e5-e4d697680c19.png" width="600" />
+
+[⬇️ Download](https://github.com/Himeyama/F2Q/releases)
+
+### 🎙️ [clidamon](https://github.com/himeyama/clidamon) — VOICEVOX APIでwavファイルを生成
+
+[⬇️ Download](https://github.com/Himeyama/clidamon/releases)
+
+### 🪟 [WinUIExample](https://github.com/Himeyama/WinUIExample) — Windows App SDK テンプレート
+
+<img src="https://github.com/Himeyama/WinUIExample/raw/master/docs/screenshot01.png" width="600" />
+
+[⬇️ Download](https://github.com/Himeyama/WinUIExample/releases)
