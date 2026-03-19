@@ -31,6 +31,9 @@ work:      Optical System, Optical Solution, Network System Development, Infra, 
 
 </div>
 
+### [Hime](https://github.com/Himeyama/hime) - BYOK AI エージェント VSCode 拡張
+
+<img src="https://github.com/Himeyama/hime/raw/main/docs/image.png" width="600" />
 
 ### 🤖 [HikariChat](https://github.com/Himeyama/HikariChat) — LLM チャットアプリ (Windows)
 
