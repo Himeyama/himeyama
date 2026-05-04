@@ -27,7 +27,7 @@ work:      Optical System, Optical Solution, Network System Development, Infra, 
 
 <div align="center">
 
-## 🍦 ソフト
+## 作品一覧
 
 </div>
 
