@@ -31,6 +31,10 @@ work:      Optical System, Optical Solution, Network System Development, Infra, 
 
 </div>
 
+### [玄海](https://github.com/Himeyama/genai-web) - 源内 (genai-web) をローカルで実行可能にしたウェブアプリケーション
+
+<img src="https://github.com/Himeyama/genai-web/raw/master/docs/images/screenshot.png" width="600" />
+
 ### [Hime](https://github.com/Himeyama/hime) - BYOK AI エージェント VSCode 拡張
 
 <img src="https://github.com/Himeyama/hime/raw/main/docs/image.png" width="600" />
