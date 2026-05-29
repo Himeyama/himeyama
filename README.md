@@ -35,52 +35,25 @@
 
 ### [Hime](https://github.com/Himeyama/hime) - BYOK AI エージェント VSCode 拡張
 
-<img src="https://github.com/Himeyama/hime/raw/main/docs/image.png" width="600" />
+<img src="https://github.com/Himeyama/hime/raw/main/docs/image.png" width="300" />
 
-### 🤖 [HikariChat](https://github.com/Himeyama/HikariChat) — LLM チャットアプリ (Windows)
+### [HikariChat](https://github.com/Himeyama/HikariChat) — LLM チャットアプリ (Windows)
 
 <img src="https://github.com/user-attachments/assets/71463bc7-0997-42fa-b8cc-3f950a083186" width="600" />
 
-### 🖼️ [SVG2ICO](https://github.com/Himeyama/Svgicon5) — SVGファイルをICOに変換
+### [SVG2ICO](https://github.com/Himeyama/Svgicon5) — SVGファイルをICOに変換
 
 <img src="https://github.com/Himeyama/Svgicon5/raw/master/docs/image01.png" width="600" />
 
 [⬇️ Download](https://github.com/Himeyama/Svgicon5/releases)
 
-### ✨ [Yukari](https://github.com/Himeyama/yukari) — 生成AIのデスクトップクライアント
+### [Yukari](https://github.com/Himeyama/yukari) — 生成AIのデスクトップクライアント
 
-<img src="https://github.com/Himeyama/yukari/raw/master/docs/yukari1.gif" width="600" />
 <img src="https://github.com/Himeyama/yukari/raw/master/docs/yukari2.gif" width="600" />
 
 [⬇️ Download](https://github.com/Himeyama/yukari/releases)
 
-### ☁️ [Shinano](https://github.com/Himeyama/shinano) — Windows向けEC2インスタンス管理アプリ
-
-<img src="https://github.com/Himeyama/shinano/raw/master/docs/image01.png" width="600" />
-
-[⬇️ Download](https://github.com/Himeyama/shinano/releases)
-
-### 📅 [Scheduler](https://github.com/Himeyama/Scheduler) — タスク・スケジュール管理アプリ
-
-<img src="https://github.com/Himeyama/Scheduler/raw/master/docs/image.png" width="600" />
-
-[⬇️ Download](https://github.com/Himeyama/Scheduler/releases)
-
----
-
-### 🔖 [Lime](https://github.com/Himeyama/lime) — ブックマーク管理アプリ
-
-<img src="https://github.com/user-attachments/assets/5f4b6667-bd96-4545-a8ec-0b253fe55d03" width="600" />
-
-[⬇️ Download](https://github.com/Himeyama/lime/releases)
-
-### 🔐 [Nanohana](https://github.com/Himeyama/nanohana) — パスワードマネージャー
-
-<img src="https://github.com/Himeyama/nanohana/raw/master/docs/Dark.jpg" width="600" />
-
-[⬇️ Download](https://github.com/Himeyama/nanohana/releases)
-
-### 🌤️ [sora](https://github.com/Himeyama/sora) — Ruby製 軽量情報共有ソフト
+### [sora](https://github.com/Himeyama/sora) — Ruby製 軽量情報共有ソフト
 
 <img src="https://github.com/user-attachments/assets/23895c3e-abb7-480a-b3be-e02d9cedd61b" width="600" />
 
@@ -88,25 +61,23 @@
 gem install sora
 ```
 
----
-
-### 💤 [Remote Shutdown](https://github.com/Himeyama/remote-shutdown) — PCをリモートシャットダウン
+### [Remote Shutdown](https://github.com/Himeyama/remote-shutdown) — PCをリモートシャットダウン
 
 <img src="https://github.com/user-attachments/assets/3dd64721-6f98-49b6-9a36-1329a134a349" width="600" />
 
 [⬇️ Download](https://github.com/Himeyama/remote-shutdown/releases)
 
-### 📷 [F2Q](https://github.com/Himeyama/F2Q) — ファイルからQRコードを生成
+### [F2Q](https://github.com/Himeyama/F2Q) — ファイルから QR コードを生成
 
 <img src="https://user-images.githubusercontent.com/39254183/235792566-d5ac81df-e050-48db-97e5-e4d697680c19.png" width="600" />
 
 [⬇️ Download](https://github.com/Himeyama/F2Q/releases)
 
-### 🎙️ [clidamon](https://github.com/himeyama/clidamon) — VOICEVOX APIでwavファイルを生成
+### [clidamon](https://github.com/himeyama/clidamon) — VOICEVOX API で wav ファイルを生成
 
 [⬇️ Download](https://github.com/Himeyama/clidamon/releases)
 
-### 🪟 [WinUIExample](https://github.com/Himeyama/WinUIExample) — Windows App SDK テンプレート
+### [WinUIExample](https://github.com/Himeyama/WinUIExample) — Windows App SDK テンプレート
 
 <img src="https://github.com/Himeyama/WinUIExample/raw/master/docs/screenshot01.png" width="600" />
 
