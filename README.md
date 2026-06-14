@@ -25,6 +25,10 @@
 
 </div>
 
+### [ひかりエディタ](https://github.com/Himeyama/HikariEditor) - WinUI の AI 付きエディタ
+
+<img src="https://github.com/user-attachments/assets/bfba27b3-3132-47ba-83a4-bc8d47ca6a3c" width="600" />
+
 ### [HikariObserver](https://github.com/Himeyama/HikariObserver) - HTTPS MITM デバッグツール
 
 <img src="https://github.com/Himeyama/HikariObserver/raw/master/docs/image.png" width="600" />
