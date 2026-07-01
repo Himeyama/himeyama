@@ -25,6 +25,10 @@
 
 </div>
 
+### [RVC-App](https://github.com/Himeyama/RVC-App) - RVC アプリ
+
+<img src="https://github.com/Himeyama/RVC-App/raw/main/docs/image.png" width="600" />
+
 ### [ひかりエディタ](https://github.com/Himeyama/HikariEditor) - WinUI の AI 付きエディタ
 
 <img src="https://github.com/user-attachments/assets/bfba27b3-3132-47ba-83a4-bc8d47ca6a3c" width="600" />
