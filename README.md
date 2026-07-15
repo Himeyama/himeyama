@@ -31,7 +31,7 @@
 
 ### [RVC-App](https://github.com/Himeyama/RVC-App) - RVC アプリ
 
-<img src="https://github.com/Himeyama/RVC-App/raw/main/docs/image.png" width="600" />
+<img src="https://github.com/Himeyama/RVC-App/raw/main/docs/image.webp" width="600" />
 
 ### [ひかりエディタ](https://github.com/Himeyama/HikariEditor) - WinUI の AI 付きエディタ
 
