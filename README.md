@@ -37,14 +37,6 @@
 
 <img src="https://github.com/user-attachments/assets/bfba27b3-3132-47ba-83a4-bc8d47ca6a3c" width="600" />
 
-### [HikariObserver](https://github.com/Himeyama/HikariObserver) - HTTPS MITM デバッグツール
-
-<img src="https://github.com/Himeyama/HikariObserver/raw/master/docs/image.png" width="600" />
-
-### [玄海](https://github.com/Himeyama/genai-web) - 源内 (genai-web) をローカルで実行可能にしたウェブアプリケーション
-
-<img src="https://github.com/Himeyama/genai-web/raw/master/docs/images/screenshot.png" width="600" />
-
 ### [Hime](https://github.com/Himeyama/hime) - BYOK AI エージェント VSCode 拡張
 
 <img src="https://github.com/Himeyama/hime/raw/main/docs/image.png" width="300" />
@@ -53,17 +45,9 @@
 
 <img src="https://github.com/user-attachments/assets/71463bc7-0997-42fa-b8cc-3f950a083186" width="600" />
 
-### [SVG2ICO](https://github.com/Himeyama/Svgicon5) — SVGファイルをICOに変換
+### [SVG2ICO](https://github.com/Himeyama/Svgicon5) — SVGファイルをICOに変換 → 非公開
 
-<img src="https://github.com/Himeyama/Svgicon5/raw/master/docs/image01.png" width="600" />
-
-[⬇️ Download](https://github.com/Himeyama/Svgicon5/releases)
-
-### [Yukari](https://github.com/Himeyama/yukari) — 生成AIのデスクトップクライアント
-
-<img src="https://github.com/Himeyama/yukari/raw/master/docs/yukari2.gif" width="600" />
-
-[⬇️ Download](https://github.com/Himeyama/yukari/releases)
+代替: [SVG を ICO に変換](https://www.hikari-dev.com/svg-to-ico/)
 
 ### [sora](https://github.com/Himeyama/sora) — Ruby製 軽量情報共有ソフト
 
@@ -79,11 +63,9 @@ gem install sora
 
 [⬇️ Download](https://github.com/Himeyama/remote-shutdown/releases)
 
-### [F2Q](https://github.com/Himeyama/F2Q) — ファイルから QR コードを生成
+### [F2Q](https://github.com/Himeyama/F2Q) — ファイルから QR コードを生成 → 非公開
 
-<img src="https://user-images.githubusercontent.com/39254183/235792566-d5ac81df-e050-48db-97e5-e4d697680c19.png" width="600" />
-
-[⬇️ Download](https://github.com/Himeyama/F2Q/releases)
+代替: [QR コード生成](https://www.hikari-dev.com/qr-code/)
 
 ### [clidamon](https://github.com/himeyama/clidamon) — VOICEVOX API で wav ファイルを生成
 
@@ -92,5 +74,3 @@ gem install sora
 ### [WinUIExample](https://github.com/Himeyama/WinUIExample) — Windows App SDK テンプレート
 
 <img src="https://github.com/Himeyama/WinUIExample/raw/master/docs/screenshot01.png" width="600" />
-
-[⬇️ Download](https://github.com/Himeyama/WinUIExample/releases)
