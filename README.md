@@ -27,7 +27,7 @@
 
 ### [Sodalite](https://github.com/Himeyama/Sodalite) - SD/SDXL による画像生成アプリ
 
-<img src="https://github.com/user-attachments/assets/3a4f62b7-7743-45a9-bb48-f8f7a7b87557" width="600" />
+<img src="https://github.com/user-attachments/assets/ca8de416-c853-4d05-9cb6-cab8c7c9bbd3" width="600" />
 
 ### [RVC-App](https://github.com/Himeyama/RVC-App) - RVC アプリ
 
