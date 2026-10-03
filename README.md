@@ -25,6 +25,9 @@
 
 </div>
 
+### [local-llm-app](https://github.com/Himeyama/local-llm-app) - Local LLM アプリ
+<img width="600" src="https://github.com/user-attachments/assets/872b5c0f-1a7b-49b1-9fd7-63f2db3fbfbf" />
+
 ### [Sodalite](https://github.com/Himeyama/Sodalite) - SD/SDXL による画像生成アプリ
 
 <img src="https://github.com/user-attachments/assets/ca8de416-c853-4d05-9cb6-cab8c7c9bbd3" width="600" />
