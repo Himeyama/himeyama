@@ -25,7 +25,7 @@
 
 </div>
 
-### [HikariVideoEditor]() - 生成 AI 対応動画編集アプリ
+### [HikariVideoEditor](https://github.com/Himeyama/HikariVideoEditor) - 生成 AI 対応動画編集アプリ
 <img width="600" src="https://github.com/user-attachments/assets/6a1b72ce-b3df-4f32-a02e-0fb063b04e88" />
 
 ### [local-llm-app](https://github.com/Himeyama/local-llm-app) - Local LLM アプリ
