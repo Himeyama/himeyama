@@ -28,6 +28,9 @@
 ### [HikariVideoEditor](https://github.com/Himeyama/HikariVideoEditor) - 生成 AI 対応動画編集アプリ
 <img width="600" src="https://github.com/user-attachments/assets/6a1b72ce-b3df-4f32-a02e-0fb063b04e88" />
 
+### [HSIS](https://github.com/Himeyama/hsis) - インストーラー作成アプリ
+<img width="600" src="https://github.com/user-attachments/assets/52bdb38a-db7e-49c1-9d93-8ef7ab0123f0" />
+
 ### [local-llm-app](https://github.com/Himeyama/local-llm-app) - エディタ・ターミナル付きのローカル LLM アプリ
 
 <img width="600" src="https://github.com/user-attachments/assets/9bccc573-a60b-4146-b462-f18ffe5993a2" />
