@@ -28,8 +28,9 @@
 ### [HikariVideoEditor](https://github.com/Himeyama/HikariVideoEditor) - 生成 AI 対応動画編集アプリ
 <img width="600" src="https://github.com/user-attachments/assets/6a1b72ce-b3df-4f32-a02e-0fb063b04e88" />
 
-### [local-llm-app](https://github.com/Himeyama/local-llm-app) - Local LLM アプリ
-<img width="600" src="https://github.com/user-attachments/assets/872b5c0f-1a7b-49b1-9fd7-63f2db3fbfbf" />
+### [local-llm-app](https://github.com/Himeyama/local-llm-app) - エディタ・ターミナル付きのローカル LLM アプリ
+
+<img width="600" src="https://github.com/user-attachments/assets/9bccc573-a60b-4146-b462-f18ffe5993a2" />
 
 ### [Sodalite](https://github.com/Himeyama/Sodalite) - SD/SDXL による画像生成アプリ
 
@@ -39,7 +40,7 @@
 
 <img src="https://github.com/Himeyama/RVC-App/raw/main/docs/image.webp" width="600" />
 
-### [ひかりエディタ](https://github.com/Himeyama/HikariEditor) - WinUI の AI 付きエディタ
+### [ひかりエディタ](https://github.com/Himeyama/HikariEditor) - WinUI の AI 付きエディタ → 廃止
 
 <img src="https://github.com/user-attachments/assets/bfba27b3-3132-47ba-83a4-bc8d47ca6a3c" width="600" />
 
