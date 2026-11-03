@@ -32,7 +32,7 @@
 <img width="600" src="https://github.com/user-attachments/assets/6a1b72ce-b3df-4f32-a02e-0fb063b04e88" />
 
 ### [HSIS](https://github.com/Himeyama/hsis) - インストーラー作成アプリ
-<img width="600" src="https://github.com/user-attachments/assets/52bdb38a-db7e-49c1-9d93-8ef7ab0123f0" />
+<img width="600" src="https://github.com/user-attachments/assets/6e9dd7e8-513f-4cfa-87d7-1fb8c2e9608d" />
 
 ### [local-llm-app](https://github.com/Himeyama/local-llm-app) - エディタ・ターミナル付きのローカル LLM アプリ
 
