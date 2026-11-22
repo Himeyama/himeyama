@@ -12,7 +12,7 @@
 </div>
 
 ### [Chlorella](https://github.com/Himeyama/Chlorella) - 表計算ソフト
-<img width="600" src="https://github.com/user-attachments/assets/4e7d057a-4a57-48f1-9f56-7061cea15013" />
+<img width="600" src="https://github.com/user-attachments/assets/d38973cb-faa3-4886-94e6-255d50d9ed2b" />
 
 ### [MynaAuth](https://github.com/Himeyama/MynaAuth) - マイナンバーカードによる Windows サインインシステム
 <img width="600" src="https://github.com/user-attachments/assets/4ea25d0b-6996-4b88-90ea-3b57b8722dc2" />
